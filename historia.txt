@@ -1,6 +1,4 @@
-Esta es la historiua de Alexis
-
-Pruyeba
-
-
+Esta es la historia de Alexis
+Prueba de archivo de historia
+y control de versiones
 Cambio
